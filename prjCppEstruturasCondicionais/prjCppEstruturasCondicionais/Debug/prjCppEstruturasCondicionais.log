@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Katia\Desktop\Algoritm\Day 5th\estruturas-condicionais\prjCppEstruturasCondicionais\prjCppEstruturasCondicionais\main.cpp(4,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  prjCppEstruturasCondicionais.vcxproj -> C:\Users\Katia\Desktop\Algoritm\Day 5th\estruturas-condicionais\prjCppEstruturasCondicionais\Debug\prjCppEstruturasCondicionais.exe
